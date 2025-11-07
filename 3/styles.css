@@ -1,0 +1,70 @@
+h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-color: red;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+}
+
+h2{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    width: 400px;
+    height: 175px;
+    padding-top: 100px;
+    
+}
+
+h3{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    padding-bottom: 5px;
+    text-align: center;
+    width: 400px;
+    height: 100px;
+    padding-top: 50px;
+    
+}
+
+h4{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-color: red;
+    border-width: 3px;
+    border-style: dashed;
+    width: 600px;
+    height: 100px;
+    padding-left: 40px;
+    font-size: 20px;
+    padding-top: 40px;
+    padding-right: 20px;
+}
+
+h5{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-color: red;
+    border-width: 3px;
+    border-style: dashed;
+    width: 600px;
+    height: 70px;
+    padding-left: 40px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+}
